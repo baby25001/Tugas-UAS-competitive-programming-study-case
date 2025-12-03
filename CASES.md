@@ -2,6 +2,7 @@
 
 ## 1. Pak Dengklek dan BU Dengklek
 >  OSN INFORMATIKA 2025
+
 Pak Dengklek dan Bu Dengklek memiliki 
 N ekor bebek yang sedang berbaris dalam satu baris dari kiri ke kanan. Pada awalnya, Pak Dengklek berada pada ujung kiri barisan sedangkan Bu Dengklek berada pada ujung kanan barisan.
 
